@@ -1,6 +1,6 @@
 
 
-<h1>Arduino i2c/iic OLED Ekran kullanımı 128x64 pixel 0.96 inç</h1>
+<h2>Arduino i2c/iic OLED Ekran kullanımı 128x64 pixel 0.96 inç</h2>
 
 <p>Youtube eğitim vidyosuna buradan ulaşabilirsiniz;</p>
 
